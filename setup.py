@@ -21,7 +21,7 @@ setup(
     ],
     python_requires='>=3.9',
     install_requires=[
-        'numpy<=2.0.2',
+        'numpy==2.0.2',
         'k3d',
         'matplotlib'
     ],
