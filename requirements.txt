@@ -1,5 +1,5 @@
 k3d
 plotly
 matplotlib
-numpy<=2.0.2
+numpy==2.0.2
 glob
